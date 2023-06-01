@@ -49,9 +49,9 @@ I am a senior software consultant, author, speaker & open source tech enthusiast
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=venukannuri&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venukannuri&layout=compact&theme=vision-friendly-dark)](https://github.com/sudheerj/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venukannuri&layout=compact&theme=vision-friendly-dark)](https://github.com/Venukannuri)
 
 ---
 
 ### :writing_hand: Blog Posts :
-**WebSite:** [Venukannuri.com](https://vwnukannuri.com)
+**WebSite:** [Venukannuri.com](https://venukannuri.com)
