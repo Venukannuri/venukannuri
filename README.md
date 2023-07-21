@@ -1,17 +1,14 @@
-<div id="header" align="center">
-  <h1> Hi 👋 I'm Venu Kannuri.</h1>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/venukannuri/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://twitter.com/imVKannuri">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=venukannuri&style=flat-square&color=blue" alt=""/>
-</div>
+<h1 align="center">
+  Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Venu Kannuri.
+</h1>
 
----
+<img src="https://komarev.com/ghpvc/?username=venukannuri&style=flat-square&color=blue" align='right' alt="venukannuri"/>
+<br/>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Solution+Architect;Development+Lead+;Senior+Developer;Trainer+%2F+Mentor">
+</p>
 
 ### 💻 &nbsp; About Me :
 I am a senior software consultant, author, speaker & open source tech enthusiast with a passion for thoughtful AI design, collaboration, and teaching👨‍💻
@@ -21,7 +18,7 @@ I am a senior software consultant, author, speaker & open source tech enthusiast
 - Opinions/Views expressed here are my own 🗣️
 - I believe in moving fast and that perfect is the enemy of good. Move forward, and build cool stuff without fear.
 
----
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -47,9 +44,10 @@ I am a senior software consultant, author, speaker & open source tech enthusiast
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=venukannuri&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venukannuri&layout=compact&theme=vision-friendly-dark)](https://github.com/Venukannuri)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=venukannuri&theme=monokai-metallian&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venukannuri&layout=compact&theme=dracula)](https://github.com/Venukannuri)
 
 ---
 
