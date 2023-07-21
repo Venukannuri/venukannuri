@@ -42,13 +42,13 @@ I am a senior software consultant, author, speaker & open source tech enthusiast
 </div>
 
 ---
-
+<!--
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=venukannuri&theme=monokai-metallian&hide_border=true)](https://git.io/streak-stats)
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=venukannuri&theme=monokai-metallian&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venukannuri&layout=compact&theme=dracula)](https://github.com/Venukannuri)
-
+-->
 ---
 
 ### :writing_hand: Blog Posts :
